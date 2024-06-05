@@ -1,6 +1,6 @@
 package store
 
-import "github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/model"
+import "github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
 
 type UserRepository interface {
 	Create(*model.User) error
