@@ -1,0 +1,5 @@
+[database]
+url = "postgres://localhost/restapi_dev?sslmode=disable"
+
+[migrations]
+path = "migrations"
