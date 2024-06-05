@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"net/http"
 
-	"github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/store/sqlstore"
+	"github.com/dummdaddy/http-rest-api/cmd/apiserver/internal/app/store/sqlstore"
 )
 
 func Start(config *Config) error {
