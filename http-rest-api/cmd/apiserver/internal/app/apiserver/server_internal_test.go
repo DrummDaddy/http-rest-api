@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/store/teststore"
+	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store/teststore"
 	"github.com/stretchr/testify/assert"
 )
 
