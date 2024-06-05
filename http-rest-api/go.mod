@@ -1,4 +1,4 @@
-module github.com/gopherschool/http-rest-api
+module github.com/drummdaddy/http-rest-api
 
 go 1.21.5
 
