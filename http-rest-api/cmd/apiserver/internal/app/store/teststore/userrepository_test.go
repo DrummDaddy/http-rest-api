@@ -3,10 +3,10 @@ package teststore_test
 import (
 	"testing"
 
-	"github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/store"
-	"github.com/gopherschool/http-rest-api/cmd/apiserver/internal/app/store/teststore"
-	"github.com/stretchr/testify/assert"
+	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store/teststore"
+	"github.com/drummdaddy/testify/assert"
 )
 
 func TestUserRepository_Create(t *testing.T) {
