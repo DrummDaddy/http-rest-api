@@ -6,7 +6,7 @@ import (
 	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
 	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
 	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store/teststore"
-	"github.com/drummdaddy/testify/assert"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestUserRepository_Create(t *testing.T) {
