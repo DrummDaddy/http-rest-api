@@ -2,7 +2,7 @@ package teststore
 
 import (
 	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/drumdaddy/http-rest-api/cmd/apiserver/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
 )
 
 type UserRepository struct {
