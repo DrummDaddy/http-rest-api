@@ -3,9 +3,9 @@ package teststore_test
 import (
 	"testing"
 
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store/teststore"
+	"github.com/drummdaddy/http-rest-api/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/internal/app/store/teststore"
 	"github.com/stretchr/testify/assert"
 )
 

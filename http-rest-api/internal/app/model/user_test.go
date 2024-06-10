@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/internal/app/model"
 	"github.com/stretchr/testify/assert"
 )
 

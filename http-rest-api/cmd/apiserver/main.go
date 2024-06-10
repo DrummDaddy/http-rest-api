@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/BurntSushi/toml"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/apiserver"
+	"github.com/drummdaddy/http-rest-api/internal/app/apiserver"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 )
 

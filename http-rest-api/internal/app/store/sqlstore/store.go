@@ -3,7 +3,7 @@ package sqlstore
 import (
 	"database/sql"
 
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/internal/app/store"
 	_ "github.com/lib/pq"
 )
 

@@ -1,8 +1,8 @@
 package teststore
 
 import (
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/internal/app/store"
 )
 
 type Store struct {

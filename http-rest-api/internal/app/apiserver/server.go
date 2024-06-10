@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store"
+	"github.com/drummdaddy/http-rest-api/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/internal/app/store"
 	"github.com/google/uuid"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"

@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/model"
-	"github.com/drummdaddy/http-rest-api/cmd/apiserver/internal/app/store/teststore"
+	"github.com/drummdaddy/http-rest-api/internal/app/model"
+	"github.com/drummdaddy/http-rest-api/internal/app/store/teststore"
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"
 	"github.com/stretchr/testify/assert"
