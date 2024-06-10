@@ -1,6 +1,6 @@
 module github.com/drummdaddy/http-rest-api
 
-go 1.21.5
+go 1.22.4
 
 require (
 	github.com/BurntSushi/toml v1.4.0
